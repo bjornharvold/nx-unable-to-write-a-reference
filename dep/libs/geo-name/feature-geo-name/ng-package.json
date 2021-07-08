@@ -1,0 +1,7 @@
+{
+  "$schema": "../../../node_modules/ng-packagr/ng-package.schema.json",
+  "dest": "../../../dist/libs/geo-name/feature-geo-name",
+  "lib": {
+    "entryFile": "src/index.ts"
+  }
+}
